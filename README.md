@@ -5,12 +5,6 @@ UI Clone - Tesla
 <p align="center"><a href="https://tesla.com">Tesla Homepage</a> UI clone for study purposes.</p>
 <p align="center"><a href="https://tesla-fawn.vercel.app/">Tesla Clone DEMO</a> My project clone Demo</p>
 
-<p align="center">
-  <a href="https://github.com/Vinidevsantos/Tesla-UI-Clone/graphs/contributors">
-    <img src="https://img.shields.io/github.com/Vinidevsantos/Tesla-UI-Clone?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-</p>
-
 <hr>
 
 ## Participants
